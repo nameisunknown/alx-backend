@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x00. Pagination
 
 
@@ -349,3 +350,6 @@ Nb items: 19417
 bob@dylan:~$ 
 
 ```
+=======
+This is a repository on all things backend related to ALX
+>>>>>>> 537c4b6 (quick fixx)
